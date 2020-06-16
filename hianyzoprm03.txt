@@ -1,0 +1,5 @@
+Hianyzo parameter(ek) !
+
+A program helyes inditasa : szamkitalalo03 <min> <max>
+                        vagy
+                            szamkitalalo03 <max> <min>

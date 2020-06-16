@@ -1,0 +1,7 @@
+********************
+*** szamkitalalo ***
+********************
+
+Gondolj egy 1 es 1024 kozti egesz szamra es en max. 10 tippel kitalalom !
+
+
